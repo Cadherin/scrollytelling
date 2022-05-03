@@ -10,7 +10,7 @@ Franny's scrollytelling templates are ready-to-deploy website templates geared t
 At the time that this repo is published, there is one set of template. It comprises of the following:
 - A HTML file
 - A CSS stylesheet
-- A sample hero page image
+- A sample cover page image
 
 More to be added in templates to be published in the future
 
