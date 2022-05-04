@@ -1,9 +1,11 @@
+/* Universal settings */
 *{
   margin-top:0;
   padding:0;
   margin-top:0;
 }
 
+/* Fade-in transition settings */
 .fade-in {
   opacity: 0;
   transition: opacity 3s;
@@ -12,6 +14,7 @@
   opacity: 1;
 }
 
+/* Body settings */
 body{
   margin:0;
   padding: 0;
@@ -20,6 +23,7 @@ body{
   line-height: 1.5;
 }
 
+/* Cover page styling */
 #showcase{
   background-image:url("cover_page.jpg");
   background-size:cover;
@@ -32,14 +36,14 @@ body{
   text-align: left;
   padding: 0px 50px;
   font-family: sans-serif;
-  /* padding: 5px; */
-  /* gap: 10px; */
 }
 
+/* Cover paragraph page styling */
 #showcase p{
   font-size: 24px;
 }
 
+/* section-a styling */
 #section-a{
   padding:80px;
   background:black;
@@ -53,6 +57,7 @@ body{
   font-size: 36px;
 }
 
+/* section-b styling */
 #section-b{
   padding:80px;
   background:black;
@@ -66,6 +71,7 @@ body{
   font-size: 36px;
 }
 
+/* section-c styling */
 #section-c{
   padding:80px;
   background:black;
@@ -79,6 +85,7 @@ body{
   font-size: 20px;
 }
 
+/* Hyperlink styling */
 a:link {
   color: #fff;
   background-color: transparent;
