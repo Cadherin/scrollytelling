@@ -18,7 +18,7 @@ More to be added in templates to be published in the future
 Each template is contained in a folder in this repo, simply download the repo and extract the content in the template of choice. Refer to the comments in the HTML and CSS files to customize the code to suit your needs. Put the files into a folder of your website host location and it would be ready to go.
 
 ## Available templates
-### Minimalista
+### [Minimalista](https://github.com/Cadherin/scrollytelling/tree/main/minimalista)
 
 "Minimalista" is a barebone template that features a single-page with:
 - 1 static cover page
@@ -28,3 +28,5 @@ Each template is contained in a folder in this repo, simply download the repo an
 - Built-in fade-in effect whereby the observer built into the page "listens" to where the user is during the scrolling and turns the opacity of the next section from 0 to 1 within a default duration of 3 seconds
 
 To customize, simply copy & paste the respective sections to create more key messages or data visualizations. Styling such as font, height of each section, etc. could be adjusted using the CSS stylesheet. As for the cover page, simply replace the .jpg file with an image file of your choice and put it in the same folder as all other files.
+
+The 2 dummy data visualizations in the template were created in Tableau. The respective code could be replaced your own code from data visualization method of your choice (E.g. D3.js, Altair, etc.)
