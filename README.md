@@ -20,7 +20,7 @@ Each template is contained in a folder in this repo, simply download the repo an
 ## Available templates
 ### Minimalista - Sphyx
 
-"Minimalista" is a bare like sphyx template that features a single-page website that showcases:
+"Minimalista" is a bare like a sphyx template that features a single-page website that showcases:
 - 1 static cover page
 - 2 sections for key messages
 - 2 sections for data visualization
