@@ -27,4 +27,4 @@ Each template is contained in a folder in this repo, simply download the repo an
 - 1 closing section
 - Fade-in effect is built whereby the page listens to where the user is during the scrolling and turns the opacity of the next section from 0 to 1 within a default duration of 3
 
-To customize, simply copy & paste the respective sections to create more key messages or data visualizations. Styling such as font, height of each section, etc. could be adjusted using the CSS stylesheet. 
+To customize, simply copy & paste the respective sections to create more key messages or data visualizations. Styling such as font, height of each section, etc. could be adjusted using the CSS stylesheet. As for the cover page, simply replace the .jpg file with an image file of your choice and put it in the same folder as all other files.
