@@ -18,9 +18,9 @@ More to be added in templates to be published in the future
 Each template is contained in a folder in this repo, simply download the repo and extract the content in the template of choice. Refer to the comments in the HTML and CSS files to customize the code to suit your needs. Put the files into a folder of your website host location and it would be ready to go.
 
 ## Available templates
-### Minimalista - Sphyx
+### Minimalista
 
-"Minimalista" is a bare like a sphyx template that features a single-page website that showcases:
+"Minimalista" is a barebone template that features a single-page with:
 - 1 static cover page
 - 2 sections for key messages
 - 2 sections for data visualization
