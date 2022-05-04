@@ -21,10 +21,10 @@ Each template is contained in a folder in this repo, simply download the repo an
 ### Minimalista
 
 "Minimalista" features a single-page website that showcases:
-- 1 cover page
+- 1 static cover page
 - 2 sections for key messages
 - 2 sections for data visualization
 - 1 closing section
-- Fade-in effect is built whereby the page listens to where the user is during the scrolling and turns the opacity of the next section from 0 to 1 within a default duration of 3
+- Built-in fade-in effect whereby the observer built into the page "listens" to where the user is during the scrolling and turns the opacity of the next section from 0 to 1 within a default duration of 3 seconds
 
 To customize, simply copy & paste the respective sections to create more key messages or data visualizations. Styling such as font, height of each section, etc. could be adjusted using the CSS stylesheet. As for the cover page, simply replace the .jpg file with an image file of your choice and put it in the same folder as all other files.
